@@ -28,6 +28,10 @@ git clone https://github.com/evolsb/claude-legal-skill ~/.codex/skills/contract-
 Review this NDA - I'm the receiving party
 ```
 
+### Example Output
+
+![Demo output showing contract review with red flags, risk analysis, and redline suggestions](examples/demo.png)
+
 ---
 
 ## Why This Exists
