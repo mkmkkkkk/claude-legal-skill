@@ -2,6 +2,7 @@
 
 > AI-powered contract review with CUAD risk detection, market benchmarks, and lawyer-ready redlines
 
+[![GitHub stars](https://img.shields.io/github/stars/evolsb/claude-legal-skill)](https://github.com/evolsb/claude-legal-skill/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-blueviolet)](https://agentskills.io)
 [![CUAD](https://img.shields.io/badge/CUAD-41%20Categories-green)](https://github.com/TheAtticusProject/cuad)
