@@ -174,6 +174,10 @@ Based on ContractEval benchmarks, Claude achieves F1 ~0.62 on clause extraction.
 - [LegalBench](https://hazyresearch.stanford.edu/legalbench/) — Stanford HAI
 - [ContractEval](https://arxiv.org/abs/2303.07389) — Contract understanding benchmarks
 
+## Contact
+
+Questions or feedback? [Open an issue](https://github.com/evolsb/claude-legal-skill/issues) or email chris@ctsheehan.com.
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
